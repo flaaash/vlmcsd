@@ -1,3 +1,5 @@
+another way to deploy: docker run -d -p 1688:1688 --name kms --restart=always teddysun/kms
+
 To view the documentation cd to the directory containing the distribution
 files and type
 
